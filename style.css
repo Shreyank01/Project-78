@@ -1,0 +1,12 @@
+  body {
+      background-color:cyan;
+      font-family: sans-serif;
+  }
+  button {
+      background-color:rgb(255, 183, 0);
+      height:50px;
+      width:100px;
+      border-radius:20px;
+      border-width:5px;
+  }
+  
